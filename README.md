@@ -53,7 +53,7 @@ source.lu
 
 <div align="center">
 
-### 🔤 Lu Language — A Programming Language Built From Scratch
+### 🔤 Lu Language - A Programming Language Built From Scratch
 
 *A custom interpreted language written in pure C, taken through the full toolchain by hand.*
 
@@ -65,7 +65,7 @@ source.lu
 
 <br>
 
-### ⚙️ Lu Virtual Machine — Standalone Stack-Based VM
+### ⚙️ Lu Virtual Machine - Standalone Stack-Based VM
 
 *The bytecode-executing engine behind Lu, built as its own standalone project.*
 
