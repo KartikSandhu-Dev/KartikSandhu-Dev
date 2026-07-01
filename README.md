@@ -107,6 +107,6 @@ source.lu
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
-**Thanks for stopping by — go build something that shouldn't exist yet.** ⚡
+**Thanks for stopping by go build something that shouldn't exist yet.** ⚡
 
 </div>
