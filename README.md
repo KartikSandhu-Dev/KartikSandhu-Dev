@@ -59,13 +59,19 @@ source.lu
 
 **Toolchain:** Lexer → Parser → AST → Compiler → Bytecode → VM → Runtime Execution
 
-[![Lu Language](https://github-readme-stats.vercel.app/api/pin/?username=KartikSandhu-Dev&repo=Lu-language&theme=radical&hide_border=true)](https://github.com/KartikSandhu-Dev/Lu-language)
+[![Stars](https://img.shields.io/github/stars/KartikSandhu-Dev/Lu-language?style=social)](https://github.com/KartikSandhu-Dev/Lu-language)
+[![Forks](https://img.shields.io/github/forks/KartikSandhu-Dev/Lu-language?style=social)](https://github.com/KartikSandhu-Dev/Lu-language)
+[![Top Language](https://img.shields.io/github/languages/top/KartikSandhu-Dev/Lu-language?color=blue)](https://github.com/KartikSandhu-Dev/Lu-language)
+
+<br>
 
 ### ⚙️ Lu Virtual Machine — Standalone Stack-Based VM
 
 *The bytecode-executing engine behind Lu, built as its own standalone project.*
 
-[![Lu Virtual Machine](https://github-readme-stats.vercel.app/api/pin/?username=KartikSandhu-Dev&repo=Lu-virtualmachine&theme=radical&hide_border=true)](https://github.com/KartikSandhu-Dev/Lu-virtualmachine)
+[![Stars](https://img.shields.io/github/stars/KartikSandhu-Dev/Lu-virtualmachine?style=social)](https://github.com/KartikSandhu-Dev/Lu-virtualmachine)
+[![Forks](https://img.shields.io/github/forks/KartikSandhu-Dev/Lu-virtualmachine?style=social)](https://github.com/KartikSandhu-Dev/Lu-virtualmachine)
+[![Top Language](https://img.shields.io/github/languages/top/KartikSandhu-Dev/Lu-virtualmachine?color=blue)](https://github.com/KartikSandhu-Dev/Lu-virtualmachine)
 
 </div>
 
@@ -90,7 +96,6 @@ source.lu
 </div>
 
 <br>
-
 ## 📫 Connect With Me
 
 <div align="center">
