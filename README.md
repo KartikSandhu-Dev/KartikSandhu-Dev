@@ -71,14 +71,11 @@ source.lu
 
 <br>
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KartikSandhu-Dev&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KartikSandhu-Dev&layout=compact&theme=radical&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KartikSandhu-Dev&theme=radical&hide_border=true" />
+![](https://github-readme-stats.shion.dev/api?username=KartikSandhu-Dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=KartikSandhu-Dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=KartikSandhu-Dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
@@ -122,6 +119,6 @@ source.lu
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
-**Thanks for stopping by — go build something that shouldn't exist yet.** ⚡
+**Thanks for stopping by go build something that shouldn't exist yet.** ⚡
 
 </div>
