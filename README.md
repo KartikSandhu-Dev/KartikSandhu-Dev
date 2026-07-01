@@ -61,7 +61,7 @@ source.lu
 
 [![Stars](https://img.shields.io/github/stars/KartikSandhu-Dev/Lu-language?style=social)](https://github.com/KartikSandhu-Dev/Lu-language)
 [![Forks](https://img.shields.io/github/forks/KartikSandhu-Dev/Lu-language?style=social)](https://github.com/KartikSandhu-Dev/Lu-language)
-[![Top Language](https://img.shields.io/github/languages/top/KartikSandhu-Dev/Lu-language?color=blue)](https://github.com/KartikSandhu-Dev/Lu-language)
+[![Language](https://img.shields.io/badge/Language-C-blue?logo=c&logoColor=white)](https://github.com/KartikSandhu-Dev/Lu-language)
 
 <br>
 
@@ -71,11 +71,7 @@ source.lu
 
 [![Stars](https://img.shields.io/github/stars/KartikSandhu-Dev/Lu-virtualmachine?style=social)](https://github.com/KartikSandhu-Dev/Lu-virtualmachine)
 [![Forks](https://img.shields.io/github/forks/KartikSandhu-Dev/Lu-virtualmachine?style=social)](https://github.com/KartikSandhu-Dev/Lu-virtualmachine)
-[![Top Language](https://img.shields.io/github/languages/top/KartikSandhu-Dev/Lu-virtualmachine?color=blue)](https://github.com/KartikSandhu-Dev/Lu-virtualmachine)
-
-</div>
-
-<br>
+[![Language](https://img.shields.io/badge/Language-C-blue?logo=c&logoColor=white)](https://github.com/KartikSandhu-Dev/Lu-virtualmachine)
 
 # 📊 GitHub Stats:
 
