@@ -83,16 +83,6 @@ source.lu
 
 <br>
 
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KartikSandhu-Dev&theme=radical&hide_border=true" width="100%" />
-
-</div>
-
-<br>
-
 ## 📫 Connect With Me
 
 <div align="center">
