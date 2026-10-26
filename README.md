@@ -2,6 +2,6 @@
 
 **Systems Programmer • Backend Infrastructure**
 
-Currently building software from first principles in C.
+Currently building projects that i think are cool.
 
 > I love computers.
